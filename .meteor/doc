@@ -1,6 +1,5 @@
 1. NPM package use node_modules
-    + mantra-core
-    + material-ui
+    meteor npm i --save mantra-core material-ui react
 
     + moment
     + md5
